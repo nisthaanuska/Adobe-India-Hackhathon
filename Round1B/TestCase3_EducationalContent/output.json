@@ -1,0 +1,751 @@
+{
+  "metadata": {
+    "input_documents": [
+      "TestCase3_EducationalContent/pdfs/Chemistry1.pdf",
+      "TestCase3_EducationalContent/pdfs/Chemistry2.pdf",
+      "TestCase3_EducationalContent/pdfs/Chemistry3.pdf",
+      "TestCase3_EducationalContent/pdfs/Chemistry4.pdf",
+      "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    ],
+    "persona": {
+      "role": "Undergraduate Chemistry Student",
+      "focus_areas": [
+        "key concepts",
+        "mechanisms",
+        "reaction kinetics"
+      ]
+    },
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics.",
+    "processing_timestamp": "2025-07-27T19:31:36.350146Z"
+  },
+  "extracted_sections": [
+    {
+      "section_title": "Chapter 4: Introduction to Reaction Kinetics",
+      "level": "H1",
+      "page": 1,
+      "text": "Chapter 4: Introduction to Reaction Kinetics",
+      "importance_rank": 1,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "Order of Reactions",
+      "level": "H2",
+      "page": 1,
+      "text": "Order of Reactions",
+      "importance_rank": 2,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "Department of Chemistry",
+      "level": "H3",
+      "page": 1,
+      "text": "Department of Chemistry",
+      "importance_rank": 3,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "Experimental Determination of Rate Laws",
+      "level": "H2",
+      "page": 2,
+      "text": "Experimental Determination of Rate Laws",
+      "importance_rank": 4,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "1. Atkins, P., Jones, L.",
+      "level": "H3",
+      "page": 2,
+      "text": "1. Atkins, P., Jones, L.",
+      "importance_rank": 5,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 6,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "Overview",
+      "level": "H2",
+      "page": 1,
+      "text": "Overview",
+      "importance_rank": 7,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 8,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "Rate Laws",
+      "level": "H2",
+      "page": 1,
+      "text": "Rate Laws",
+      "importance_rank": 9,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 10,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 2,
+      "text": "4",
+      "importance_rank": 11,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 2,
+      "text": "5",
+      "importance_rank": 12,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "Factors Affecting Rates",
+      "level": "H2",
+      "page": 2,
+      "text": "Factors Affecting Rates",
+      "importance_rank": 13,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "6",
+      "level": "H2",
+      "page": 2,
+      "text": "6",
+      "importance_rank": 14,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "Sample Problems",
+      "level": "H2",
+      "page": 2,
+      "text": "Sample Problems",
+      "importance_rank": 15,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "25 min",
+      "level": "H3",
+      "page": 2,
+      "text": "25 min",
+      "importance_rank": 16,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "40 M, what is [A] after 10 min?",
+      "level": "H3",
+      "page": 2,
+      "text": "40 M, what is [A] after 10 min?",
+      "importance_rank": 17,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "0328 M",
+      "level": "H3",
+      "page": 2,
+      "text": "0328 M",
+      "importance_rank": 18,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "10 mol L",
+      "level": "H3",
+      "page": 2,
+      "text": "10 mol L",
+      "importance_rank": 19,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "5 min",
+      "level": "H3",
+      "page": 2,
+      "text": "5 min",
+      "importance_rank": 20,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "7",
+      "level": "H2",
+      "page": 2,
+      "text": "7",
+      "importance_rank": 21,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "Summary Points",
+      "level": "H2",
+      "page": 2,
+      "text": "Summary Points",
+      "importance_rank": 22,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "8",
+      "level": "H2",
+      "page": 2,
+      "text": "8",
+      "importance_rank": 23,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "References",
+      "level": "H2",
+      "page": 2,
+      "text": "References",
+      "importance_rank": 24,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "2. Carey, F.",
+      "level": "H3",
+      "page": 2,
+      "text": "2. Carey, F.",
+      "importance_rank": 25,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry1.pdf"
+    },
+    {
+      "section_title": "Chapter 5: Factors Affecting Reaction Rates",
+      "level": "H1",
+      "page": 1,
+      "text": "Chapter 5: Factors Affecting Reaction Rates",
+      "importance_rank": 1,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "Example Mechanisms",
+      "level": "H2",
+      "page": 1,
+      "text": "Example Mechanisms",
+      "importance_rank": 2,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "Department of Chemistry",
+      "level": "H3",
+      "page": 1,
+      "text": "Department of Chemistry",
+      "importance_rank": 3,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "Effect of Concentration",
+      "level": "H2",
+      "page": 1,
+      "text": "Effect of Concentration",
+      "importance_rank": 4,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "1. Atkins, P., Jones, L.",
+      "level": "H3",
+      "page": 2,
+      "text": "1. Atkins, P., Jones, L.",
+      "importance_rank": 5,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 6,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "Overview",
+      "level": "H2",
+      "page": 1,
+      "text": "Overview",
+      "importance_rank": 7,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 8,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 9,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "Effect of Temperature",
+      "level": "H2",
+      "page": 1,
+      "text": "Effect of Temperature",
+      "importance_rank": 10,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 1,
+      "text": "4",
+      "importance_rank": 11,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "Effect of Catalysts",
+      "level": "H2",
+      "page": 1,
+      "text": "Effect of Catalysts",
+      "importance_rank": 12,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 1,
+      "text": "5",
+      "importance_rank": 13,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "6",
+      "level": "H2",
+      "page": 2,
+      "text": "6",
+      "importance_rank": 14,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "Summary",
+      "level": "H2",
+      "page": 2,
+      "text": "Summary",
+      "importance_rank": 15,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "References",
+      "level": "H2",
+      "page": 2,
+      "text": "References",
+      "importance_rank": 16,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "2. Housecroft, C.",
+      "level": "H3",
+      "page": 2,
+      "text": "2. Housecroft, C.",
+      "importance_rank": 17,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry2.pdf"
+    },
+    {
+      "section_title": "Chapter 6: Collision Theory and Transition State",
+      "level": "H1",
+      "page": 1,
+      "text": "Chapter 6: Collision Theory and Transition State",
+      "importance_rank": 1,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "Department of Chemistry",
+      "level": "H3",
+      "page": 1,
+      "text": "Department of Chemistry",
+      "importance_rank": 2,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "Molecular Collisions",
+      "level": "H2",
+      "page": 1,
+      "text": "Molecular Collisions",
+      "importance_rank": 3,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "Activation Energy",
+      "level": "H2",
+      "page": 1,
+      "text": "Activation Energy",
+      "importance_rank": 4,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "Transition State Theory",
+      "level": "H2",
+      "page": 1,
+      "text": "Transition State Theory",
+      "importance_rank": 5,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "Effect of Temperature on Collisions",
+      "level": "H2",
+      "page": 1,
+      "text": "Effect of Temperature on Collisions",
+      "importance_rank": 6,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "Theory",
+      "level": "H1",
+      "page": 1,
+      "text": "Theory",
+      "importance_rank": 7,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 8,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 9,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 10,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 1,
+      "text": "4",
+      "importance_rank": 11,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 1,
+      "text": "5",
+      "importance_rank": 12,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "Diagrams",
+      "level": "H2",
+      "page": 1,
+      "text": "Diagrams",
+      "importance_rank": 13,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "Summary",
+      "level": "H2",
+      "page": 1,
+      "text": "Summary",
+      "importance_rank": 14,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "References",
+      "level": "H2",
+      "page": 2,
+      "text": "References",
+      "importance_rank": 15,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "1. Laidler, K. J.",
+      "level": "H3",
+      "page": 2,
+      "text": "1. Laidler, K. J.",
+      "importance_rank": 16,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "2. Carey, F.",
+      "level": "H3",
+      "page": 2,
+      "text": "2. Carey, F.",
+      "importance_rank": 17,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry3.pdf"
+    },
+    {
+      "section_title": "Chapter 7: Complex Reaction Mechanisms",
+      "level": "H1",
+      "page": 1,
+      "text": "Chapter 7: Complex Reaction Mechanisms",
+      "importance_rank": 1,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "Chain Reactions",
+      "level": "H2",
+      "page": 1,
+      "text": "Chain Reactions",
+      "importance_rank": 2,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "Department of Chemistry",
+      "level": "H3",
+      "page": 1,
+      "text": "Department of Chemistry",
+      "importance_rank": 3,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "Types of Mechanisms",
+      "level": "H2",
+      "page": 1,
+      "text": "Types of Mechanisms",
+      "importance_rank": 4,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "Steady-State Approximation",
+      "level": "H2",
+      "page": 1,
+      "text": "Steady-State Approximation",
+      "importance_rank": 5,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "Example",
+      "level": "H2",
+      "page": 1,
+      "text": "Example",
+      "importance_rank": 6,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 7,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 8,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 9,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 1,
+      "text": "4",
+      "importance_rank": 10,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 1,
+      "text": "5",
+      "importance_rank": 11,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "Summary",
+      "level": "H2",
+      "page": 1,
+      "text": "Summary",
+      "importance_rank": 12,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "References",
+      "level": "H2",
+      "page": 2,
+      "text": "References",
+      "importance_rank": 13,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "1. Housecroft, C.",
+      "level": "H3",
+      "page": 2,
+      "text": "1. Housecroft, C.",
+      "importance_rank": 14,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "2. Atkins, P., de Paula, J.",
+      "level": "H3",
+      "page": 2,
+      "text": "2. Atkins, P., de Paula, J.",
+      "importance_rank": 15,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry4.pdf"
+    },
+    {
+      "section_title": "Chapter 8: Catalysis in Organic Reactions",
+      "level": "H1",
+      "page": 1,
+      "text": "Chapter 8: Catalysis in Organic Reactions",
+      "importance_rank": 1,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "Department of Chemistry",
+      "level": "H3",
+      "page": 1,
+      "text": "Department of Chemistry",
+      "importance_rank": 2,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "Catalysis in Organic Chemistry",
+      "level": "H2",
+      "page": 1,
+      "text": "Catalysis in Organic Chemistry",
+      "importance_rank": 3,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "Effect on Activation Energy",
+      "level": "H2",
+      "page": 1,
+      "text": "Effect on Activation Energy",
+      "importance_rank": 4,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 5,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 6,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "Enzyme Catalysis",
+      "level": "H2",
+      "page": 1,
+      "text": "Enzyme Catalysis",
+      "importance_rank": 7,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 8,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "Industrial Catalysis",
+      "level": "H2",
+      "page": 1,
+      "text": "Industrial Catalysis",
+      "importance_rank": 9,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 1,
+      "text": "4",
+      "importance_rank": 10,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 1,
+      "text": "5",
+      "importance_rank": 11,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "Energy Profile Diagram",
+      "level": "H2",
+      "page": 1,
+      "text": "Energy Profile Diagram",
+      "importance_rank": 12,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "6",
+      "level": "H2",
+      "page": 1,
+      "text": "6",
+      "importance_rank": 13,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "Summary",
+      "level": "H2",
+      "page": 1,
+      "text": "Summary",
+      "importance_rank": 14,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "References",
+      "level": "H2",
+      "page": 2,
+      "text": "References",
+      "importance_rank": 15,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "1. Clayden, J.",
+      "level": "H3",
+      "page": 2,
+      "text": "1. Clayden, J.",
+      "importance_rank": 16,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    },
+    {
+      "section_title": "2. Smith, J.G.",
+      "level": "H3",
+      "page": 2,
+      "text": "2. Smith, J.G.",
+      "importance_rank": 17,
+      "document": "TestCase3_EducationalContent/pdfs/Chemistry5.pdf"
+    }
+  ]
+}

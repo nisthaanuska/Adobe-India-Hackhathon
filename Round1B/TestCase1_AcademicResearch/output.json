@@ -1,0 +1,542 @@
+{
+  "metadata": {
+    "input_documents": [
+      "TestCase1_AcademicResearch/pdfs/Research1.pdf",
+      "TestCase1_AcademicResearch/pdfs/Research2.pdf",
+      "TestCase1_AcademicResearch/pdfs/Research3.pdf",
+      "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    ],
+    "persona": {
+      "role": "PhD Researcher in Computational Biology",
+      "focus_areas": [
+        "methodologies",
+        "datasets",
+        "performance benchmarks"
+      ]
+    },
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks.",
+    "processing_timestamp": "2025-07-27T19:31:35.907331Z"
+  },
+  "extracted_sections": [
+    {
+      "section_title": "Department of Computational Biology",
+      "level": "H3",
+      "page": 1,
+      "text": "Department of Computational Biology",
+      "importance_rank": 1,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "Benchmarks and Evaluation",
+      "level": "H2",
+      "page": 2,
+      "text": "Benchmarks and Evaluation",
+      "importance_rank": 2,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "Limitations and Future Work",
+      "level": "H2",
+      "page": 2,
+      "text": "Limitations and Future Work",
+      "importance_rank": 3,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "Advances in Graph Neural Networks for Molecular",
+      "level": "H1",
+      "page": 1,
+      "text": "Advances in Graph Neural Networks for Molecular",
+      "importance_rank": 4,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "Anonymous",
+      "level": "H3",
+      "page": 1,
+      "text": "Anonymous",
+      "importance_rank": 5,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "Introduction",
+      "level": "H2",
+      "page": 1,
+      "text": "Introduction",
+      "importance_rank": 6,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "Application to Molecular Property Prediction",
+      "level": "H2",
+      "page": 2,
+      "text": "Application to Molecular Property Prediction",
+      "importance_rank": 7,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "1. Gilmer, J., et al. (2017). “Neural Message Passing for Quantum Chemistry.”",
+      "level": "H3",
+      "page": 2,
+      "text": "1. Gilmer, J., et al. (2017). “Neural Message Passing for Quantum Chemistry.”",
+      "importance_rank": 8,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "2. Wu, Z., et al. (2018). “MoleculeNet: A Benchmark for Molecular Machine Learning.”",
+      "level": "H3",
+      "page": 2,
+      "text": "2. Wu, Z., et al. (2018). “MoleculeNet: A Benchmark for Molecular Machine Learning.”",
+      "importance_rank": 9,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "Property Prediction",
+      "level": "H1",
+      "page": 1,
+      "text": "Property Prediction",
+      "importance_rank": 10,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "Institute of Drug Discovery",
+      "level": "H3",
+      "page": 1,
+      "text": "Institute of Drug Discovery",
+      "importance_rank": 11,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "Graph Neural Network Architectures",
+      "level": "H2",
+      "page": 1,
+      "text": "Graph Neural Network Architectures",
+      "importance_rank": 12,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 13,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 14,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "MPNN",
+      "level": "H3",
+      "page": 1,
+      "text": "MPNN",
+      "importance_rank": 15,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 2,
+      "text": "3",
+      "importance_rank": 16,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 2,
+      "text": "4",
+      "importance_rank": 17,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 2,
+      "text": "5",
+      "importance_rank": 18,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "6",
+      "level": "H2",
+      "page": 2,
+      "text": "6",
+      "importance_rank": 19,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "References",
+      "level": "H2",
+      "page": 2,
+      "text": "References",
+      "importance_rank": 20,
+      "document": "TestCase1_AcademicResearch/pdfs/Research1.pdf"
+    },
+    {
+      "section_title": "Benchmarking GNN Performance in Virtual Screening",
+      "level": "H1",
+      "page": 1,
+      "text": "Benchmarking GNN Performance in Virtual Screening",
+      "importance_rank": 1,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "Anonymous",
+      "level": "H3",
+      "page": 1,
+      "text": "Anonymous",
+      "importance_rank": 2,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "Introduction",
+      "level": "H2",
+      "page": 1,
+      "text": "Introduction",
+      "importance_rank": 3,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "Discussion",
+      "level": "H2",
+      "page": 1,
+      "text": "Discussion",
+      "importance_rank": 4,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "Conclusion",
+      "level": "H2",
+      "page": 1,
+      "text": "Conclusion",
+      "importance_rank": 5,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 6,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 7,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "Methods",
+      "level": "H2",
+      "page": 1,
+      "text": "Methods",
+      "importance_rank": 8,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 9,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "Results",
+      "level": "H2",
+      "page": 1,
+      "text": "Results",
+      "importance_rank": 10,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 1,
+      "text": "4",
+      "importance_rank": 11,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 1,
+      "text": "5",
+      "importance_rank": 12,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "D-MPNN",
+      "level": "H3",
+      "page": 2,
+      "text": "D-MPNN",
+      "importance_rank": 13,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "6",
+      "level": "H2",
+      "page": 2,
+      "text": "6",
+      "importance_rank": 14,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "References",
+      "level": "H2",
+      "page": 2,
+      "text": "References",
+      "importance_rank": 15,
+      "document": "TestCase1_AcademicResearch/pdfs/Research2.pdf"
+    },
+    {
+      "section_title": "Drug-Target Interaction",
+      "level": "H1",
+      "page": 1,
+      "text": "Drug-Target Interaction",
+      "importance_rank": 1,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "Limitations and Next Steps",
+      "level": "H2",
+      "page": 2,
+      "text": "Limitations and Next Steps",
+      "importance_rank": 2,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "Novel Architectures in Graph Deep Learning for",
+      "level": "H1",
+      "page": 1,
+      "text": "Novel Architectures in Graph Deep Learning for",
+      "importance_rank": 3,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "Anonymous",
+      "level": "H3",
+      "page": 1,
+      "text": "Anonymous",
+      "importance_rank": 4,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "Introduction",
+      "level": "H2",
+      "page": 1,
+      "text": "Introduction",
+      "importance_rank": 5,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "Dataset",
+      "level": "H2",
+      "page": 1,
+      "text": "Dataset",
+      "importance_rank": 6,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "Discussion",
+      "level": "H2",
+      "page": 2,
+      "text": "Discussion",
+      "importance_rank": 7,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 8,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 9,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "Proposed Model",
+      "level": "H2",
+      "page": 1,
+      "text": "Proposed Model",
+      "importance_rank": 10,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 11,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 1,
+      "text": "4",
+      "importance_rank": 12,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "Results",
+      "level": "H2",
+      "page": 1,
+      "text": "Results",
+      "importance_rank": 13,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 2,
+      "text": "5",
+      "importance_rank": 14,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "6",
+      "level": "H2",
+      "page": 2,
+      "text": "6",
+      "importance_rank": 15,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "7",
+      "level": "H2",
+      "page": 2,
+      "text": "7",
+      "importance_rank": 16,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "References",
+      "level": "H2",
+      "page": 2,
+      "text": "References",
+      "importance_rank": 17,
+      "document": "TestCase1_AcademicResearch/pdfs/Research3.pdf"
+    },
+    {
+      "section_title": "Datasets and Challenges in GNN-Driven Drug Discovery",
+      "level": "H1",
+      "page": 1,
+      "text": "Datasets and Challenges in GNN-Driven Drug Discovery",
+      "importance_rank": 1,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "Key Datasets for GNN Evaluation",
+      "level": "H2",
+      "page": 1,
+      "text": "Key Datasets for GNN Evaluation",
+      "importance_rank": 2,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "Anonymous",
+      "level": "H3",
+      "page": 1,
+      "text": "Anonymous",
+      "importance_rank": 3,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "Benchmarking Challenges",
+      "level": "H2",
+      "page": 1,
+      "text": "Benchmarking Challenges",
+      "importance_rank": 4,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "Experimental Protocols",
+      "level": "H2",
+      "page": 1,
+      "text": "Experimental Protocols",
+      "importance_rank": 5,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "Future Directions",
+      "level": "H2",
+      "page": 2,
+      "text": "Future Directions",
+      "importance_rank": 6,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 7,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "QM9:",
+      "level": "H3",
+      "page": 1,
+      "text": "QM9:",
+      "importance_rank": 8,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 9,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 10,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 2,
+      "text": "4",
+      "importance_rank": 11,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 2,
+      "text": "5",
+      "importance_rank": 12,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    },
+    {
+      "section_title": "References",
+      "level": "H2",
+      "page": 2,
+      "text": "References",
+      "importance_rank": 13,
+      "document": "TestCase1_AcademicResearch/pdfs/Research4.pdf"
+    }
+  ]
+}

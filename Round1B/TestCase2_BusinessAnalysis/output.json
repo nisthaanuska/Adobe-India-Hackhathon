@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "input_documents": [
+      "TestCase2_BusinessAnalysis/pdfs/Business1.pdf",
+      "TestCase2_BusinessAnalysis/pdfs/Business2.pdf",
+      "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    ],
+    "persona": {
+      "role": "Investment Analyst",
+      "focus_areas": [
+        "revenue trends",
+        "R&D investments",
+        "market positioning strategies"
+      ]
+    },
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies.",
+    "processing_timestamp": "2025-07-27T19:31:36.067382Z"
+  },
+  "extracted_sections": [
+    {
+      "section_title": "2022 marked strong revenue growth and expansion into new markets for TechNova Inc.",
+      "level": "H3",
+      "page": 1,
+      "text": "2022 marked strong revenue growth and expansion into new markets for TechNova Inc.",
+      "importance_rank": 1,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "Market Positioning and Strategy",
+      "level": "H2",
+      "page": 1,
+      "text": "Market Positioning and Strategy",
+      "importance_rank": 2,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "R&D Investments",
+      "level": "H2",
+      "page": 1,
+      "text": "R&D Investments",
+      "importance_rank": 3,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "Leadership and Governance",
+      "level": "H2",
+      "page": 2,
+      "text": "Leadership and Governance",
+      "importance_rank": 4,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "Annual Report 2022 — TechNova Inc.",
+      "level": "H1",
+      "page": 1,
+      "text": "Annual Report 2022 — TechNova Inc.",
+      "importance_rank": 5,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "Executive Summary",
+      "level": "H2",
+      "page": 1,
+      "text": "Executive Summary",
+      "importance_rank": 6,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "Financial Performance",
+      "level": "H2",
+      "page": 1,
+      "text": "Financial Performance",
+      "importance_rank": 7,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "TechNova Inc.",
+      "level": "H3",
+      "page": 1,
+      "text": "TechNova Inc.",
+      "importance_rank": 8,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 9,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 10,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 11,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 2,
+      "text": "4",
+      "importance_rank": 12,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 2,
+      "text": "5",
+      "importance_rank": 13,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "Outlook",
+      "level": "H2",
+      "page": 2,
+      "text": "Outlook",
+      "importance_rank": 14,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business1.pdf"
+    },
+    {
+      "section_title": "R&D Investments",
+      "level": "H2",
+      "page": 1,
+      "text": "R&D Investments",
+      "importance_rank": 1,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "Market Position and Competitive Strategy",
+      "level": "H2",
+      "page": 1,
+      "text": "Market Position and Competitive Strategy",
+      "importance_rank": 2,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "Annual Report 2023 — SoftQuotient Ltd.",
+      "level": "H1",
+      "page": 1,
+      "text": "Annual Report 2023 — SoftQuotient Ltd.",
+      "importance_rank": 3,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "Leadership Team",
+      "level": "H2",
+      "page": 1,
+      "text": "Leadership Team",
+      "importance_rank": 4,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "SoftQuotient Ltd.",
+      "level": "H3",
+      "page": 1,
+      "text": "SoftQuotient Ltd.",
+      "importance_rank": 5,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "Executive Summary",
+      "level": "H2",
+      "page": 1,
+      "text": "Executive Summary",
+      "importance_rank": 6,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "Financial Performance",
+      "level": "H2",
+      "page": 1,
+      "text": "Financial Performance",
+      "importance_rank": 7,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "Vision for 2024",
+      "level": "H2",
+      "page": 2,
+      "text": "Vision for 2024",
+      "importance_rank": 8,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 9,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 10,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 11,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 1,
+      "text": "4",
+      "importance_rank": 12,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 2,
+      "text": "5",
+      "importance_rank": 13,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business2.pdf"
+    },
+    {
+      "section_title": "Annual Report 2024 — CloudSphere Corp.",
+      "level": "H1",
+      "page": 1,
+      "text": "Annual Report 2024 — CloudSphere Corp.",
+      "importance_rank": 1,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "CloudSphere Corp.",
+      "level": "H3",
+      "page": 1,
+      "text": "CloudSphere Corp.",
+      "importance_rank": 2,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "R&D Initiatives",
+      "level": "H2",
+      "page": 1,
+      "text": "R&D Initiatives",
+      "importance_rank": 3,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "Leadership",
+      "level": "H2",
+      "page": 2,
+      "text": "Leadership",
+      "importance_rank": 4,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "2025 : growth in EMEA/APAC, zero-carbon infrastructure, AI-powered cloud.",
+      "level": "H3",
+      "page": 2,
+      "text": "2025 : growth in EMEA/APAC, zero-carbon infrastructure, AI-powered cloud.",
+      "importance_rank": 5,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "Executive Summary",
+      "level": "H2",
+      "page": 1,
+      "text": "Executive Summary",
+      "importance_rank": 6,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "Financial Performance",
+      "level": "H2",
+      "page": 1,
+      "text": "Financial Performance",
+      "importance_rank": 7,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "EBITDA:",
+      "level": "H3",
+      "page": 1,
+      "text": "EBITDA:",
+      "importance_rank": 8,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "Global Strategy",
+      "level": "H2",
+      "page": 1,
+      "text": "Global Strategy",
+      "importance_rank": 9,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "Future Outlook",
+      "level": "H2",
+      "page": 2,
+      "text": "Future Outlook",
+      "importance_rank": 10,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "1",
+      "level": "H2",
+      "page": 1,
+      "text": "1",
+      "importance_rank": 11,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "2",
+      "level": "H2",
+      "page": 1,
+      "text": "2",
+      "importance_rank": 12,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "3",
+      "level": "H2",
+      "page": 1,
+      "text": "3",
+      "importance_rank": 13,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "4",
+      "level": "H2",
+      "page": 2,
+      "text": "4",
+      "importance_rank": 14,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    },
+    {
+      "section_title": "5",
+      "level": "H2",
+      "page": 2,
+      "text": "5",
+      "importance_rank": 15,
+      "document": "TestCase2_BusinessAnalysis/pdfs/Business3.pdf"
+    }
+  ]
+}

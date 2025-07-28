@@ -1,0 +1,18 @@
+{
+    "persona": {
+        "role": "Undergraduate Chemistry Student",
+        "focus_areas": [
+            "key concepts",
+            "mechanisms",
+            "reaction kinetics"
+        ]
+    },
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics.",
+    "documents": [
+        "pdfs/Chemistry1.pdf",
+        "pdfs/Chemistry2.pdf",
+        "pdfs/Chemistry3.pdf",
+        "pdfs/Chemistry4.pdf",
+        "pdfs/Chemistry5.pdf"
+    ]
+}

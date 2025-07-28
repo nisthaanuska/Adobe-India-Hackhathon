@@ -1,0 +1,16 @@
+{
+    "persona": {
+        "role": "Investment Analyst",
+        "focus_areas": [
+            "revenue trends",
+            "R&D investments",
+            "market positioning strategies"
+        ]
+    },
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies.",
+    "documents": [
+        "pdfs/Business1.pdf",
+        "pdfs/Business2.pdf",
+        "pdfs/Business3.pdf"
+    ]
+}
