@@ -44,7 +44,7 @@ Please refer to the respective sections below for details and direct links.
 ---
 
 ## 📦 Repository Structure
-
+```
 Adobe India Hackathon/
 ├── Round1A/
 │   ├── approach_explanation.md
@@ -60,3 +60,4 @@ Adobe India Hackathon/
 │   ├── TestCase2_BusinessAnalysis/
 │   └── TestCase3_EducationalContent/
 └── README.md  # (this file)
+```
